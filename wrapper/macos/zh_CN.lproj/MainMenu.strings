@@ -1,0 +1,274 @@
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "268"; */
+"268.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "269"; */
+"269.title" = "首选项 ...";
+
+/* Class = "NSPanel"; title = "Preferences"; ObjectID = "277"; */
+"277.title" = "输入法设置";
+
+/* Class = "NSTabViewItem"; label = "Candidates"; ObjectID = "280"; */
+"280.label" = "候选窗口";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "281"; */
+"281.label" = "通用";
+
+/* Class = "NSMatrix"; gToolTip = "This setting would only affect the next activated input session!"; ObjectID = "289"; */
+"289.gToolTip" = "此设置将在下次激活输入法时生效！";
+
+/* Class = "NSButtonCell"; title = "Shuang Pin"; ObjectID = "291"; */
+"291.title" = "双拼";
+
+/* Class = "NSButtonCell"; title = "Quan Pin"; ObjectID = "292"; */
+"292.title" = "全拼";
+
+/* Class = "NSComboBoxCell"; title = "9"; ObjectID = "386"; */
+"386.title" = "9";
+
+/* Class = "NSComboBoxCell"; 386.objectValuesCopy[0] = "4"; ObjectID = "386"; */
+"386.objectValuesCopy[0]" = "4";
+
+/* Class = "NSComboBoxCell"; 386.objectValuesCopy[1] = "5"; ObjectID = "386"; */
+"386.objectValuesCopy[1]" = "5";
+
+/* Class = "NSComboBoxCell"; 386.objectValuesCopy[0] = "6"; ObjectID = "386"; */
+"386.objectValuesCopy[2]" = "6";
+
+/* Class = "NSComboBoxCell"; 386.objectValuesCopy[1] = "7"; ObjectID = "386"; */
+"386.objectValuesCopy[3]" = "7";
+
+/* Class = "NSComboBoxCell"; 386.objectValuesCopy[2] = "8"; ObjectID = "386"; */
+"386.objectValuesCopy[4]" = "8";
+
+/* Class = "NSComboBoxCell"; 386.objectValuesCopy[3] = "9"; ObjectID = "386"; */
+"386.objectValuesCopy[5]" = "9";
+
+/* Class = "NSTextFieldCell"; title = "Total Candidates:"; ObjectID = "387"; */
+"387.title" = "候选词个数：";
+
+/* Class = "NSTextFieldCell"; title = "Transparency:"; ObjectID = "388"; */
+"388.title" = "透明度：";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "390"; */
+"390.title" = "更改 ...";
+
+/* Class = "NSTextFieldCell"; title = "Hei 16"; ObjectID = "391"; */
+"391.title" = "Hei 16";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "392"; */
+"392.title" = "字体：";
+
+/* Class = "NSTextFieldCell"; title = "Background:"; ObjectID = "393"; */
+"393.title" = "背景色：";
+
+/* Class = "NSTextFieldCell"; title = "Pagings:"; ObjectID = "394"; */
+"394.title" = "翻页键：";
+
+/* Class = "NSTextFieldCell"; title = "Pinyin Mode:"; ObjectID = "395"; */
+"395.title" = "拼音模式：";
+
+/* Class = "NSButtonCell"; title = "Use ,/. to page up/down"; ObjectID = "396"; */
+"396.title" = "使用 ',' 和 '.' 翻页";
+
+/* Class = "NSButtonCell"; title = "Use [/] to page up/down"; ObjectID = "397"; */
+"397.title" = "使用 '[' 和 ']' 翻页";
+
+/* Class = "NSButtonCell"; title = "Use -/= to page up/down"; ObjectID = "398"; */
+"398.title" = "使用 '-' 和 '=' 翻页";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "399"; */
+"399.title" = "Radio";
+
+/* Class = "NSMenuItem"; title = "Chinese Puncts"; ObjectID = "438"; */
+"438.title" = "中文标点";
+
+/* Class = "NSMenuItem"; title = "Full-Width Symbol"; ObjectID = "443"; */
+"443.title" = "全角字母";
+
+/* Class = "NSTextFieldCell"; title = "Switch English/Chinese:"; ObjectID = "459"; */
+"459.title" = "中英文切换：";
+
+/* Class = "NSTextFieldCell"; title = "Candidate Charset:"; ObjectID = "461"; */
+"461.title" = "候选字符集：";
+
+/* Class = "NSComboBoxCell"; title = "GB2312"; ObjectID = "463"; */
+"463.title" = "GB2312";
+
+/* Class = "NSComboBoxCell"; 463.objectValuesCopy[0] = "GB2312"; ObjectID = "463"; */
+"463.objectValuesCopy[0]" = "GB2312";
+
+/* Class = "NSComboBoxCell"; 463.objectValuesCopy[1] = "GBK"; ObjectID = "463"; */
+"463.objectValuesCopy[1]" = "GBK";
+
+/* Class = "NSComboBoxCell"; 463.objectValuesCopy[2] = "GB18030"; ObjectID = "463"; */
+"463.objectValuesCopy[2]" = "GB18030";
+
+/* Class = "NSTextFieldCell"; title = "Highlighting:"; ObjectID = "471"; */
+"471.title" = "高亮色：";
+
+/* Class = "NSTextFieldCell"; title = "Keyboard Layout:"; ObjectID = "474"; */
+"474.title" = "键盘布局：";
+
+/* Class = "NSButtonCell"; title = "Force to use US layout"; ObjectID = "475"; */
+"475.title" = "强制使用英文布局";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "483"; */
+"483.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "484"; */
+"484.title" = "无";
+
+/* Class = "NSMenuItem"; title = "With Caps Lock (⇪)"; ObjectID = "485"; */
+"485.title" = "使用 Caps Lock (⇪)";
+
+/* Class = "NSMenuItem"; title = "With Shift (⇧)"; ObjectID = "486"; */
+"486.title" = "使用 Shift (⇧)";
+
+/* Class = "NSTabViewItem"; label = "Pinyin"; ObjectID = "494"; */
+"494.label" = "拼音设置";
+
+/* Class = "NSButtonCell"; title = "z - zh"; ObjectID = "502"; */
+"502.title" = "z - zh";
+
+/* Class = "NSButtonCell"; title = "c - ch"; ObjectID = "510"; */
+"510.title" = "c - ch";
+
+/* Class = "NSButtonCell"; title = "s - sh"; ObjectID = "512"; */
+"512.title" = "s - sh";
+
+/* Class = "NSButtonCell"; title = "an - ang"; ObjectID = "514"; */
+"514.title" = "an - ang";
+
+/* Class = "NSButtonCell"; title = "on - ong"; ObjectID = "516"; */
+"516.title" = "on - ong";
+
+/* Class = "NSButtonCell"; title = "en - eng"; ObjectID = "518"; */
+"518.title" = "en - eng";
+
+/* Class = "NSButtonCell"; title = "in - ing"; ObjectID = "520"; */
+"520.title" = "in - ing";
+
+/* Class = "NSButtonCell"; title = "eng - ong"; ObjectID = "522"; */
+"522.title" = "eng - ong";
+
+/* Class = "NSButtonCell"; title = "ian - iang"; ObjectID = "524"; */
+"524.title" = "ian - iang";
+
+/* Class = "NSButtonCell"; title = "uan - uang"; ObjectID = "526"; */
+"526.title" = "uan - uang";
+
+/* Class = "NSButtonCell"; title = "l - n"; ObjectID = "528"; */
+"528.title" = "l - n";
+
+/* Class = "NSButtonCell"; title = "f - h"; ObjectID = "530"; */
+"530.title" = "f - h";
+
+/* Class = "NSButtonCell"; title = "r - l"; ObjectID = "532"; */
+"532.title" = "r - l";
+
+/* Class = "NSButtonCell"; title = "k - g"; ObjectID = "534"; */
+"534.title" = "k - g";
+
+/* Class = "NSButtonCell"; title = "Fuzzy Pinyin"; ObjectID = "542"; */
+"542.title" = "模糊音";
+
+/* Class = "NSButtonCell"; title = "Auto Correct (only applicable for QuanPin)"; ObjectID = "544"; */
+"544.title" = "自动纠错（仅适用于全拼）";
+
+/* Class = "NSButtonCell"; title = "ign -> ing"; ObjectID = "546"; */
+"546.title" = "gn -> ng";
+
+/* Class = "NSButtonCell"; title = "img -> ing"; ObjectID = "548"; */
+"548.title" = "img -> ing";
+
+/* Class = "NSButtonCell"; title = "uei -> ui"; ObjectID = "550"; */
+"550.title" = "uei -> ui";
+
+/* Class = "NSButtonCell"; title = "uen -> un"; ObjectID = "552"; */
+"552.title" = "uen -> un";
+
+/* Class = "NSButtonCell"; title = "iou -> iu"; ObjectID = "554"; */
+"554.title" = "iou -> iu";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "557"; */
+"557.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "MS2003"; ObjectID = "558"; */
+"558.title" = "微软2003";
+
+/* Class = "NSMenuItem"; title = "ABC"; ObjectID = "559"; */
+"559.title" = "智能ABC";
+
+/* Class = "NSMenuItem"; title = "ZiRanMa"; ObjectID = "560"; */
+"560.title" = "自然码";
+
+/* Class = "NSMenuItem"; title = "Pinyin++"; ObjectID = "561"; */
+"561.title" = "拼音++";
+
+/* Class = "NSMenuItem"; title = "ZiGuang"; ObjectID = "562"; */
+"562.title" = "紫光";
+
+/* Class = "NSTextFieldCell"; title = "On Switching:"; ObjectID = "674"; */
+"674.title" = "切换时：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "677"; */
+"677.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Commit Chinese Words"; ObjectID = "679"; */
+"679.title" = "提交已转换的中文";
+
+/* Class = "NSMenuItem"; title = "Commit Pinyin String"; ObjectID = "680"; */
+"680.title" = "提交拼音字符串";
+
+/* Class = "NSTabViewItem"; label = "Punctations"; ObjectID = "694"; */
+"694.label" = "自定义标点";
+
+/* Class = "NSTableColumn"; headerCell.title = "ASCII Character"; ObjectID = "702"; */
+"702.headerCell.title" = "英文标点";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "703"; */
+"703.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mapped String"; ObjectID = "705"; */
+"705.headerCell.title" = "中文标点";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "706"; */
+"706.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Radius:"; ObjectID = "722"; */
+"722.title" = "圆角：";
+
+/* Class = "NSButtonCell"; title = "Use ↑/↓ to page up/down"; ObjectID = "728"; */
+"728.title" = "使用 '↑'/'↓' 翻页";
+
+/* Class = "NSTabViewItem"; label = "About"; ObjectID = "731"; */
+"731.label" = "关于";
+
+/* Class = "NSButtonCell"; title = "Check automatically"; ObjectID = "735"; */
+"735.title" = "自动检查更新";
+
+/* Class = "NSButtonCell"; title = "Check for Updates..."; ObjectID = "736"; */
+"736.title" = "检查更新 ...";
+
+/* Class = "NSTextFieldCell"; title = "Version 2.0.2\n\nCopyright © 2010 SunPinyin.ORG\nSun Microsystems, Inc.\nLei Zhang <phill.zhang@gmail.com>\nYong Sun <mail@yongsun.me>\nKefu Chai <tchaikov@gmail.com>\nWei Xue <breadson.xue@gmail.com>\nLeo Zheng <zym361@gmail.com>\nMike <mikeandmore@gmail.com>\nchumsdock <vorbei@gmail.com>\nAnthony Lee <don.anthony.lee@gmail.com>"; ObjectID = "746"; */
+"746.title" = "版本 2.0.2.1008\n\nCopyright © 2010 SunPinyin.ORG\nSun Microsystems, Inc.\nLei Zhang <phill.zhang@gmail.com>\nYong Sun <mail@yongsun.me>\nKefu Chai <tchaikov@gmail.com>\nWei Xue <breadson.xue@gmail.com>\nLeo Zheng <zym361@gmail.com>\nMike <mikeandmore@gmail.com>\nchumsdock <vorbei@gmail.com>\nAnthony Lee <don.anthony.lee@gmail.com>";
+
+/* Class = "NSButtonCell"; title = "Smarter Segmentation (only applicable for QuanPin)"; ObjectID = "748"; */
+"748.title" = "智能切分（仅适用于全拼）";
+
+/* Class = "NSButtonCell"; title = "Simpler Initials (z/c/s -> zh/ch/sh)"; ObjectID = "752"; */
+"752.title" = "声母简写（z/c/s -> zh/ch/sh）";
+
+/* Class = "NSButtonCell"; title = "Enable Inner Fuzzies"; ObjectID = "757"; */
+"757.title" = "支持内模糊音节（xian->xi'an）";
+
+/* Class = "NSTextFieldCell"; title = "Miscs:"; ObjectID = "763"; */
+"763.title" = "杂项：";
+
+/* Class = "NSButtonCell"; title = "Use ⌫ to cancel selections"; ObjectID = "765"; */
+"765.title" = "使用 ⌫ 取消候选选择";
+
+/* Class = "NSMenuItem"; title = "XiaoHe"; ObjectID = "769"; */
+"769.title" = "小鹤";
+
